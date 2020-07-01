@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template]
- 
-**Markdown generator**
+This is the front page of a website that is powered by the 
