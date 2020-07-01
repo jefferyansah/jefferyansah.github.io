@@ -6,10 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 locale                   : "en-US"
 title                    : "Web Portforlio"
 title_separator          : "-"
-name                     : &name "Jeffery Ansah"
+name                     : &name "Jeffery Ansah Ph.D"
 description              : &description " NLP Research Scientist"
 url                      : https://jefferyansah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +86,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeffery Ansah"
+  name             : "Jeffery Ansah Ph.D"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Brisbane, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "shorturl.at/wG169"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +102,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jefferyansah"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2396-5086"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -129,6 +135,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - assets
   - CHANGELOG
   - Capfile
   - Gemfile
