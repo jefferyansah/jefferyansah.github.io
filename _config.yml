@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# plugins:
+#   - jekyll-remote-theme
+# remote_theme           : "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "neon" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 locale                   : "en-US"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Jeffery Ansah Ph.D"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "NLP Research Scientist"
   location         : "Brisbane, Australia"
   employer         :
   pubmed           : 
@@ -135,7 +135,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets
+ # - assets
   - CHANGELOG
   - Capfile
   - Gemfile
