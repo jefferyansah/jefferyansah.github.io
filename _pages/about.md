@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Profile"
+title: "Jeffery Ansah: Web Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
