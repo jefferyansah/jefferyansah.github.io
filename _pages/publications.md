@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=qe9Hyo0AAAAJ&hl=en"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<br>[A Graph is Worth a Thousand Words: Telling Event Stories using Timeline Summarization Graphs](https://jefferyansah.github.io/_publications/STORYGRAPH)
+<br>
+<b>Jeffery Ansah</b>, Lin  Liu, Wei  Kang, Selasi Kwashie, Jixue  Li, Jiuyong  Li
+<i>Proceedings of the ACM WWW 2019: The World Wide Web Conference</i>.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+
+[\* denotes equal contribution]
