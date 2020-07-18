@@ -15,7 +15,7 @@ redirect_from:
 # About Me
 * I am a Data Scientist at [BHP](https://www.bhp.com/) by day and a hobbyiest NLP Research Scientist at night. I hold a Ph.D in Computer Science from [University of South Australia](https://www.unisa.edu.au/), supervised by Prof. [Jiuyong Li](https://people.unisa.edu.au/Jiuyong.Li). My PhD Disertation was geared towards developing data mining and machine learning techniques to extract insights from social media  to Predict, Detect and Summarize Civil Unrest.
 
-* During my Ph.D, I worked as a Research Data Scientist with the Data to Decisions[D2DCRC](https://www.d2dcrc.com.au/) on the Beat the News Project [BTN](https://www.d2dcrc.com.au/beat-the-news): a national secutiy project focused on tackling the big data challenges that face Australia’s national security community. More specifically, I was responsible for developing ML and NLP techniques to automate the accurate measurement of future population-level events, such as social disruption, political crises, election outcomes and disease outbreak.
+* During my Ph.D, I worked as a Research Data Scientist with the Data to Decisions [(D2DCRC)](https://www.d2dcrc.com.au/) on the Beat the News Project [BTN](https://www.d2dcrc.com.au/beat-the-news): A national secutiy project focused on tackling the big data challenges that face Australia’s national security community. More specifically, I was responsible for developing ML and NLP techniques to automate the accurate measurement of future population-level events, such as social disruption, political crises, election outcomes and disease outbreak.
 
 <!-- [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)] -->
 
