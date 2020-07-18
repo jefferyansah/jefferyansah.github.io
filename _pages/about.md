@@ -30,7 +30,7 @@ redirect_from:
 
 * January 2020, World Wide Web Journal (WWWJ) Accepted.
 
-* November 3, 2018. One paper accepted to AAAI 2019.
+
 
 <!-- * August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
 * August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
