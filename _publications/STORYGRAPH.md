@@ -1,7 +1,7 @@
 ---
 title: "A Graph is Worth a Thousand Words: Telling Event Stories using Timeline Summarization Graphs"
 collection: publications
-permalink: /_publications/STORYGRAPH
+permalink: /publications/STORYGRAPH
 venue: "WWW 2019"
 date: 2019-5-1
 citation: '<b>Jeffery Ansah</b>, Lin  Liu, Wei  Kang, Selasi Kwashie, Jixue  Li, Jiuyong  Li
